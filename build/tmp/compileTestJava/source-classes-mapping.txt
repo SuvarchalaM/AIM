@@ -1,17 +1,27 @@
+starter/Property/HeaderMenuForm.java
+ starter.Property.HeaderMenuForm
+starter/login/Credentials.java
+ starter.login.Credentials
+starter/stepdefinitions/LoginStepDefinitions.java
+ starter.stepdefinitions.LoginStepDefinitions
+starter/stepdefinitions/SelectPropertyStepDefinitions.java
+ starter.stepdefinitions.SelectPropertyStepDefinitions
+starter/Property/PropertyInfo.java
+ starter.Property.PropertyInfo
+starter/Property/PropertyName.java
+ starter.Property.PropertyName
 models/CredentialsForm.java
  models.CredentialsForm
 starter/verifyaccount/AccountData.java
  starter.verifyaccount.AccountData
 starter/CucumberTestSuite.java
  starter.CucumberTestSuite
+starter/Property/Clickheadermenu.java
+ starter.Property.Clickheadermenu
 starter/verifyaccount/AccountOverview.java
  starter.verifyaccount.AccountOverview
 starter/navigation/WmuPage.java
  starter.navigation.WmuPage
-starter/login/Credentials.java
- starter.login.Credentials
-starter/stepdefinitions/LoginStepDefinitions.java
- starter.stepdefinitions.LoginStepDefinitions
 starter/login/LoginForm.java
  starter.login.LoginForm
 starter/navigation/NavigateTo.java

@@ -44,10 +44,10 @@ public class LoginStepDefinitions {
         theActorInTheSpotlight().attemptsTo((Performable) withTheData(form));
     }
 
-    @Then("The User is successfully logged in")
+    @Then("the user is successfully logged in")
     public void the_User_is_successfully_logged_in() {
         theActorInTheSpotlight().should(
-                seeThat("ProfileName", AccountData.currentProfileName(), equalTo("System Adminitstrator"))
+                seeThat("ProfileName", AccountData.currentProfileName(), equalTo("System Administrator"))
         );
     }
 
